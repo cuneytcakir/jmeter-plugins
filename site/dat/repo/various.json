@@ -3249,6 +3249,7 @@
     "id": "jmeter-sse-sampler",
     "name": "JMeter SSE Sampler",
     "description": "High-performance Server-Sent Events (SSE) sampler for load testing real-time streaming HTTP endpoints. Supports custom authentication headers, configurable listen duration, HTTP error detection, and accurate JMeter metrics.",
+    "screenshotUrl": "",
     "helpUrl": "https://github.com/cuneytcakir/jmeter-sse-sampler",
     "vendor": "Cüneyt Çakır",
     "markerClass": "com.jmeter.sse.SSESampler",
